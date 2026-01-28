@@ -33,4 +33,3 @@ Regras, capacidades, limitações e descrições do papel do agente **não colap
 Antes da atenção, **não existe intenção global**, controle de comportamento ou hierarquia lógica. O modelo opera sobre **fragmentos locais de contexto organizados geometricamente**, e qualquer aparência de coerência ou “entendimento” **emerge apenas após** a aplicação de múltiplas camadas de atenção e transformações não lineares.
 
 Portanto, esta visualização **não deve ser interpretada como um mapa de significado**, mas como uma representação fiel do **substrato computacional inicial** dos modelos GPT. Ela demonstra, de forma concreta, que prompts extensos e cuidadosamente redigidos **não são processados como contratos cognitivos**, mas como **distribuições estatísticas fragmentadas**.
-    

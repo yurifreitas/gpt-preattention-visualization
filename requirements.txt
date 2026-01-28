@@ -1,0 +1,5 @@
+numpy
+tiktoken
+plotly
+scikit-learn
+pandas
